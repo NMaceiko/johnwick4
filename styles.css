@@ -1,5 +1,5 @@
 body {
-    font-family:georgia, "time new roman", sans-serif;
+    font-family:georgia, "times new roman", sans-serif;
     text-indent:1em;
     background-color:#473335;
     color:#ffffc7;
@@ -37,7 +37,7 @@ main dt {
 }
 
 .wick {
-    background-image:url(images/johnwick4.jpg);
+    background-image:url(johnwick4.jpg);
     background-repeat:no-repeat;
     background-position:right;
     height:900px;
