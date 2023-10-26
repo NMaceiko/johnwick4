@@ -1,0 +1,44 @@
+body {
+    font-family:georgia, "time new roman", sans-serif;
+    text-indent:1em;
+    background-color:#473335;
+    color:#ffffc7;
+    text-indent:1em;
+}
+
+p {
+    line-height:150%;
+}
+
+h1 {
+    font-family:Verdana, Arial, sans-serif;
+    text-align:center;
+    font-weight:bold;
+}
+
+footer a {
+    text-decoration:none;
+    font-style:normal;
+    font-size:medium;
+    color:#fcaa67;
+}
+
+footer {
+    font-weight:bold;
+    font-style:italic;
+    font-size:small;
+    color:gray;
+    text-align:center;
+}
+
+main dt {
+    font-weight:bold;
+    line-height:1.5em;
+}
+
+.wick {
+    background-image:url(images/johnwick4.jpg);
+    background-repeat:no-repeat;
+    background-position:right;
+    height:900px;
+}
